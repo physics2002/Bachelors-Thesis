@@ -1,0 +1,7 @@
+/home/sh/123/build2/CMakeFiles/install/strip.dir
+/home/sh/123/build2/CMakeFiles/install/local.dir
+/home/sh/123/build2/CMakeFiles/install.dir
+/home/sh/123/build2/CMakeFiles/list_install_components.dir
+/home/sh/123/build2/CMakeFiles/rebuild_cache.dir
+/home/sh/123/build2/CMakeFiles/edit_cache.dir
+/home/sh/123/build2/CMakeFiles/123.dir
